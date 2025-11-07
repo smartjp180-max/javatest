@@ -11,5 +11,5 @@ public class student {
 
 class teacher
 {
-	public String t_name ="jp";
+	public String t_name ="jp-test";
 }
